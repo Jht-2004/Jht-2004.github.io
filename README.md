@@ -1,8 +1,8 @@
-# Haotian Jiang
+# About me
 
 My name is Haotian Jiang. Now I am a master student in University of Wisconsin-Madison.
 
-## About me
+## Education
 
 M.A. in Mathematics, UW-Madison, 2027 (expected)  
 M.S. Southern University of Science and Technology, China, 2026
