@@ -11,4 +11,4 @@ M.S. Southern University of Science and Technology, China, 2026
 
 ## Contacts
 
-[Contact](mailto:hjiang382@wisc.edu)
+[hjiang382@wisc.edu](mailto:hjiang382@wisc.edu)
