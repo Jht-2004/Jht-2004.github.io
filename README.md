@@ -1,4 +1,4 @@
-# About me
+## About me
 
 My name is Haotian Jiang. Now I am a master student in University of Wisconsin-Madison.
 
